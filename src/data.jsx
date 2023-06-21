@@ -61,25 +61,25 @@ export const personalInfo = [
   {
     id: 1,
     title: 'First Name : ',
-    description: 'Steve',
+    description: 'Mário',
   },
 
   {
     id: 2,
     title: 'Last Name : ',
-    description: 'Milner',
+    description: 'Júnior',
   },
 
   {
     id: 3,
     title: 'Age : ',
-    description: '27 Years',
+    description: '20 Years',
   },
 
   {
     id: 4,
     title: 'Nationality : ',
-    description: 'Tunisian',
+    description: 'Brazilian',
   },
 
   {
@@ -91,39 +91,39 @@ export const personalInfo = [
   {
     id: 6,
     title: 'Address : ',
-    description: 'Tunis',
+    description: 'Uberlândia, Brazil',
   },
 
   {
     id: 7,
     title: 'Phone : ',
-    description: '+21621184010',
+    description: '+5534999461238',
   },
 
   {
     id: 8,
     title: 'Email : ',
-    description: 'you@mail.com',
+    description: 'marioluciosantosjunior@outlook.com.br',
   },
 
   {
     id: 9,
-    title: 'Skype : ',
-    description: 'steve.milner',
+    title: 'Instagram : ',
+    description: '@junioor_mario',
   },
 
   {
     id: 10,
-    title: 'Langages : ',
-    description: 'French, English',
+    title: 'Languages : ',
+    description: 'Portuguese, English',
   },
 ];
 
 export const stats = [
   {
     id: 1,
-    no: '12+',
-    title: 'Years of <br /> Experience',
+    no: '1',
+    title: 'Year of <br /> Experience',
   },
 
   {

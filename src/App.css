@@ -87,7 +87,6 @@ img{
 /*CSS reusável*/
 
 .container{
-    background-color: var(--first-color);
     max-width: 1140px;
     margin-inline: auto;
 }

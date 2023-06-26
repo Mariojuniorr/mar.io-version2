@@ -13,6 +13,12 @@
     cursor: pointer;
 }
 
+@media screen and (max-width: 1300px) {
+    .portfolio__container{
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
 
 .portfolio__img{
     height: 250px;

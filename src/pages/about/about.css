@@ -4,6 +4,12 @@
     grid-template-columns: repeat(2, 1fr);
 }
 
+@media screen and (max-width: 1299px) {
+    .about__container{
+        : repeat(3, 1fr);
+    }
+}
+
 .info__list{
     row-gap: 20px;
     margin-bottom: 32px;

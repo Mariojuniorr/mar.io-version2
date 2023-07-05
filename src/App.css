@@ -6,9 +6,9 @@
 :root{
     /*Cores*/
     --first-color: #874634;
-    --title-color: hsl(0,0%,40%);
+    --title-color: hsl(0,0%,90%);
     --text-color: hsl(0, 0%, 50%);
-    --body-color: hsl(0, 0%, 100%);
+    --body-color: hsl(0, 0%, 0%);
     --container-color: hsl(0, 0%,93%);
     --border-color: hsl(0, 0%, 87%);
     --text-white: #fff;
@@ -17,6 +17,7 @@
     --body-font: 'Open Sans', sans-serif;
     --second-font: 'Poppins', sans-serif;
 
+    --home-title-size: clamp(9rem, 0vw, 0rem);;
     --big-font-size: 56px;
     --h1-font-size: 50px;
     --h2-font-size: 32px;
@@ -109,7 +110,7 @@ img{
 
 .button{
     display: inline-block;
-    color: var(--title-color);
+    color: var(--text-white);
     border: 1px solid var(--first-color);
     padding: 15px 70px 15px 35px;
     border-radius: 35px;

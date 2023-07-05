@@ -1,0 +1,25 @@
+.contact__container{
+    grid-template-columns: 4fr 8fr;
+}
+
+.contact__title{
+    font-size: var(--h3-font-size);
+    font-weight: var(--weight-600);
+    margin-bottom: 1rem;
+}
+
+.contact__description{
+    font-size: var(--small-font-size);
+    line-height: 1.6;
+}
+
+.contact__description,
+.contact__info .info__item{
+    margin-bottom: 20px;
+}
+
+.contact__info .info__item{
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+}
